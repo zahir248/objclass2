@@ -1,0 +1,3 @@
+﻿  Source1.cpp
+C:\Users\Muhd Zahir\source\repos\labpractice2\Source1.cpp(5,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  labpractice2.vcxproj -> C:\Users\Muhd Zahir\source\repos\labpractice2\Debug\labpractice2.exe
